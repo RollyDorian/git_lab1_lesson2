@@ -1,1 +1,19 @@
 После проведенных действий над веткой master отличий в файле human.txt не оказалось, однако различными остались README файлы.
+
+This branch is 6 commits ahead of, 4 commits behind 
+
+{heat added
+boots
+dots
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+hometask.txt added
+}
+
+'boots_buttons':
+{
+boots
+dots
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+}
